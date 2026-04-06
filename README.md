@@ -2,8 +2,10 @@
 
 Security vulnerability research through coordinated disclosure programs.
 
-## Case Studies
+## Bounty Programs
 
 **Fintech Payment Platform**
-- [Open Redirects](case-studies/fintech-platform/open-redirects.md)
-- [Clickjacking](case-studies/fintech-platform/clickjacking.md)
+- [Open Redirects](Bounty-Programs/fintech-platform/open-redirects.md)
+**Delivery App**
+- [IDOR Testing](Bounty-Programs/delivery-app/doordash-idor.md)
+- [XSS Testing](Bounty-Programs/delivery-app/doordash-xss.md)
